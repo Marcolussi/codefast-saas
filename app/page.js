@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <nmain>
+    <main>
       <button className="btn">Iniziamo</button>
-    </nmain>
+    </main>
   );
 }
